@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 01009cb86c8f5c6438e50b64e45602f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - upperLeftCornerPrefab: {fileID: 6221051292661944058, guid: 770cce66a19e1b44bb214d3dd78e2f9b, type: 3}
+  - upperRightCornerPrefab: {fileID: 9003016407130461095, guid: 10ebd665ad3832947955039f7a78eec4, type: 3}
+  - bottomLeftCornerPrefab: {fileID: 1969630311246126390, guid: 0e50ed0faa3b7184891a1dd5b3fa274d, type: 3}
+  - bottomRightCornerPrefab: {fileID: 6061303762467597881, guid: aedf7076244c2f343917e806018a3625, type: 3}
+  - leftSidePrefab: {fileID: 6830531529775211175, guid: 346ab59231f848c44b28868ecdb348e9, type: 3}
+  - rightSidePrefab: {fileID: 318066487458270564, guid: 3a9c20aceac5dfe4485e055501e8cfe1, type: 3}
+  - topSidePrefab: {fileID: 3521696402514984268, guid: 550f1a978591d6746bfc610a9c4aadc0, type: 3}
+  - bottomSidePrefab: {fileID: 7126864948996174998, guid: 53d1c342810a3fb43834f4672d4f4fab, type: 3}
+  - bodyPrefab: {fileID: 8669659443955256816, guid: f926fff46d23cff4989fd1a97b64c356, type: 3}
+  - cubeBluePrefab: {fileID: 9002144018426478555, guid: 8086c40909a244e438cd1d7d52da3eb4, type: 3}
+  - cubeGreenPrefab: {fileID: 7038633249840773072, guid: 2bbbe3bbe8aec934bb4a577c33b086a8, type: 3}
+  - cubeRedPrefab: {instanceID: 0}
+  - cubeYellowPrefab: {instanceID: 0}
+  - cubeBlueTNTPrefab: {instanceID: 0}
+  - cubeGreenTNTPrefab: {instanceID: 0}
+  - cubeRedTNTPrefab: {instanceID: 0}
+  - cubeYellowTNTPrefab: {instanceID: 0}
+  - vaseDefaultPrefab: {instanceID: 0}
+  - vaseDamagedPrefab: {instanceID: 0}
+  - tntPrefab: {instanceID: 0}
+  - boxPrefab: {instanceID: 0}
+  - stonePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
